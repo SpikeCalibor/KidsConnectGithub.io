@@ -1,0 +1,1 @@
+import{_ as n,x as t,z as o,y as r}from"./BvKaNawu.js";const s={};function c(a,e){return r(),t("div",null,e[0]||(e[0]=[o("h1",null,"KidsConnect",-1)]))}const d=n(s,[["render",c]]);export{d as default};
